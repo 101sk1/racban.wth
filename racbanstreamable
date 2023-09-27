@@ -1,0 +1,2 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/101sk1/racban.wth/main/bypass'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/101sk1/racban.wth/main/streamables'))()
